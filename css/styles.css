@@ -20,3 +20,17 @@ h1, h2, h3 {
   section {
     margin-bottom: 20px;
   }
+  .box-model {
+    float: left;
+    margin-right: 20px;
+  }
+
+  .float-left {
+    float: left;
+    margin-right: 20px;
+  }
+
+  .float-right {
+    float: right;
+    margin-left: 20px;
+  }
