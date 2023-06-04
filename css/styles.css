@@ -6,5 +6,17 @@ body {
 
 h1, h2, h3 {
   color: #333;
-  
-}
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+  section {
+    margin-bottom: 20px;
+  }
